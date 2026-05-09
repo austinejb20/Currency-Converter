@@ -1,20 +1,20 @@
 # Currency Converter
 - A simple web application that converts currencies using real-time exchange rates.
-- ##Features
+- ## Features
 - Real-time currency conversion
 - Multiple currency support
 - Clean and responsive design
 - Easy-to-use interface
 - Fast conversion calculation
-- ##Technology  Used
+- ## Technology  Used
 - HTML
 - CSS
 - JavaScript
 - Exchange Rate API
-- ##How to Use
+- ## How to Use
 - Select the currencies
 - Enter the amount
 - Click the convert button
 - View the converted results instantly
-- ##Author
+- ## Author
 - Austine
