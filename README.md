@@ -1,5 +1,5 @@
 # Currency Converter
-- A simple web application that converts currencies using real-time exchange rates.
+ A simple web application that converts currencies using real-time exchange rates.
 - ## Features
 - Real-time currency conversion
 - Multiple currency support
